@@ -1,7 +1,7 @@
 # Pentakill
 ![pentalogo](/pentakill.png"logo")
 
-Preguntas
+Preguntas:
 1.	¿Cuál es el objetivo del proyecto? Idear a ayudar a los jugadores y nuevos jugadores a visualizar a las mejores ligas de competición y en si a los mejores jugadores del mundo y aprender de ellos.
 
 2.	¿Qué problema o necesidad pretende resolver? Pretende resolver típicos de errores en las partidas y saber cómo es en verdad jugar el juego y resolverlos.
